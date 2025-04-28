@@ -25,10 +25,10 @@ Design: ![alt text](./mail.webp)
     - `mkdir folder1 folder2 folder3 folder14` 
     - `ls -al` (stulpeliu atvaizduoja direktorijoje esanti turini)
   - git commands:
-    - `git init`
-    - `git add .`
-    - `git commit -m "Mesage text`
-    - `git push`
+    - `git init` (git repozitorijos inicijavimas)
+    - `git add .` (visus paredaguotus failus perkelia i "stage", t.y. paruosia commit'inimui)
+    - `git commit -m "Mesage text` (su'commit'ina)
+    - `git push` (issiuncia commit'a i remove repozitorija (Github))
 
 
 
