@@ -8,7 +8,7 @@ Self-directed project for learning purpose.
 
 Site published at: https://aura-lem.github.io/astronautas/
 
-Design: ![alt text](./mail.webp)
+Design: ![alt text](./original-design.png)
 
 ## Project features/goals
 
