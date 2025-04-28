@@ -18,6 +18,19 @@ Design: ![alt text](./mail.webp)
   - FontAwesome icons
   - display: flex
   - hover state
+  - bash commands:
+    - `touch index.html` (sukuria faila)
+    - `touch failas1.txt failas2.txt failas3.txt failas4.txt` 
+    - `mkdir img` (sukuria folderi/direktorija)
+    - `mkdir folder1 folder2 folder3 folder14` 
+    - `ls -al` (stulpeliu atvaizduoja direktorijoje esanti turini)
+  - git commands:
+    - `git init`
+    - `git add .`
+    - `git commit -m "Mesage text`
+    - `git push`
+
+
 
 ## Getting Started
 
